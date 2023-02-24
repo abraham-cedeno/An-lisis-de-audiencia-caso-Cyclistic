@@ -1,0 +1,7 @@
+﻿member_casual,rideable_type,COUNT(rideable_type),
+casual,electric_bike,1202385,0.533155228
+casual,classic_bike,872265,0.386775156
+casual,docked_bike,180575,0.080069616
+member ,electric_bike,1565095,0.478182017
+member,classic_bike,1707916,0.521817984
+member,docked_bike,0,0

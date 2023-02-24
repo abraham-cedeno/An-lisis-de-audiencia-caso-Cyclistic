@@ -1,0 +1,21 @@
+Number_of_trips,start_station_of_member_riders,member_casual,Percentage_distribution
+54791,Streeter Dr & Grand Ave,casual,0.232778764
+30394,DuSable Lake Shore Dr & Monroe St,casual,0.129128466
+25548,Millennium Park,casual,0.108540305
+23580,Michigan Ave & Oak St,casual,0.100179286
+21750,DuSable Lake Shore Dr & North Blvd,casual,0.092404558
+19405,Shedd Aquarium,casual,0.082441859
+17293,Theater on the Lake,casual,0.073469058
+15832,Wells St & Concord Ln,casual,0.067262021
+13450,Clark St & Armitage Ave,casual,0.057142129
+13335,Dusable Harbor,casual,0.056653553
+25146,Kingsbury St & Kinzie St,member,0.125901856
+22147,Clark St & Elm St,member,0.11088636
+21459,Wells St & Concord Ln,member,0.107441658
+19715,Ellis Ave & 60th St,member,0.098709739
+19551,University Ave & 57th St,member,0.097888618
+19022,Clinton St & Washington Blvd,member,0.095240003
+18898,Clinton St & Madison St,member,0.094619155
+18851,Wells St & Elm St,member,0.094383834
+17848,Loomis St & Lexington St,member,0.089361979
+17090,Dearborn St & Erie St,member,0.085566799
